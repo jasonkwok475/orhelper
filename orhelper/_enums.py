@@ -68,7 +68,6 @@ class FlightDataType(Enum):
     TYPE_WIND_VELOCITY = auto()
     TYPE_AIR_TEMPERATURE = auto()
     TYPE_AIR_PRESSURE = auto()
-    TYPE_AIR_DENSITY = auto()
     TYPE_SPEED_OF_SOUND = auto()
     TYPE_TIME_STEP = auto()
     TYPE_COMPUTATION_TIME = auto()
