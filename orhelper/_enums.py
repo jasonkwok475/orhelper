@@ -19,7 +19,6 @@ class OrLogLevel(Enum):
 class FlightDataType(Enum):
     TYPE_TIME = auto()
     TYPE_ALTITUDE = auto()
-    TYPE_ALTITUDE_ABOVE_SEA = auto()
     TYPE_VELOCITY_Z = auto()
     TYPE_ACCELERATION_Z = auto()
     TYPE_VELOCITY_TOTAL = auto()
